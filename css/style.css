@@ -82,7 +82,7 @@ footer{background:var(--wine);color:#fff;padding:56px 0;font-size:.85rem;line-he
 .bg-decor::before{content:"";position:absolute;inset:0;background-repeat:no-repeat;pointer-events:none;z-index:0}
 .bg-decor>*{position:relative;z-index:1}
 .bg-raposa::before{background-image:url("../images/Raposa 1.png");background-position:right center;background-size:auto 100%;opacity:.2}
-.bg-maes::before{background-image:url("../images/Conjunto de Maes.png");background-position:center;background-size:cover;opacity:.6}
+.bg-maes::before{background-image:url("../images/Conjunto de Maes.png");background-position:center;background-size:cover;opacity:.2}
 .bg-raposinha::before{background-image:url("../images/Raposinha com mamae.png");background-position:left center;background-size:auto 100%;opacity:.3}
 @media(max-width:820px){
   .bg-raposa::before,.bg-raposinha::before{background-size:auto 60%}
